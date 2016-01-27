@@ -1,0 +1,68 @@
+.navbar-brand {
+  font-size: 30px;
+  font-family: 'Orbitron', sans-serif;
+
+}
+
+.navbar-nav {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+
+
+ /* Navigationsleisten Farbe */
+ .navbar {
+    
+    background-color: #36D7B7;
+    border: none;
+    border-radius: 0px
+ }
+
+ .navbar-inverse .navbar-nav>.active>a:focus,
+ .navbar-inverse .navbar-nav>li>a:focus {
+   background-color: #336E7B;
+ }
+
+ .navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:hover {
+   background-color: #34495E;
+ }
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  background-color: #2C3E50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #FFFFFF;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #FFFFFF;
+}
+/* Navigationsleisten Farbe Ende */
+body {
+    background-color: #FFFFFF;
+}
+
+.fa {
+    margin-right: 5px;
+}
+
+.navbar-nav>li {
+    border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    border-color: azure;
+}
+
+.navbar-nav>li:first-of-type {
+    border-style: solid;
+    border-width: 0px 1px 0px 2px;
+    border-color: azure;
+}
+
+.navbar-nav>li:last-of-type {
+    border-style: solid;
+    border-width: 0px 2px 0px 1px;
+    border-color: azure;
+}

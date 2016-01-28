@@ -13,24 +13,24 @@
 
  /* Navigationsleisten Farbe */
  .navbar {
-    
-    background-color: #36D7B7;
+
+    background-color: #E4F1FE;
     border: none;
-    border-radius: 0px
+    border-radius: 0px;
  }
 
  .navbar-inverse .navbar-nav>.active>a:focus,
  .navbar-inverse .navbar-nav>li>a:focus {
-   background-color: #336E7B;
+   background-color: #59ABE3;
  }
 
  .navbar-inverse .navbar-nav>.active>a,
  .navbar-inverse .navbar-nav>.active>a:hover {
-   background-color: #34495E;
+   background-color: #59ABE3;
  }
 
 .navbar-inverse .navbar-nav>li>a:hover {
-  background-color: #2C3E50;
+  background-color: #59ABE3;
 }
 
 .navbar-inverse .navbar-nav>li>a {
